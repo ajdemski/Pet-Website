@@ -1,0 +1,12 @@
+h1 {
+  font-style: italic;
+  text-align: center;
+}
+
+h2 {
+  font-weight: bolder;
+}
+
+body {
+  background-color: darkgray;
+}
